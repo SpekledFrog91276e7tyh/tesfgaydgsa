@@ -12,6 +12,11 @@ app.get("/download-audio", (req, res) => {
     return res.status(400).send("URL is required");
   }
 
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET, POST, OPTIONS, PUT, PATCH, DELETE");
+  res.setHeader("Access-Control-Allow-Headers", "X-Requested-With,content-type");
+  res.setHeader("Access-Control-Allow-Credentials", true);
+
   res.setHeader("Content-Disposition", 'attachment; filename="audio.mp3"');
   res.setHeader("Content-Type", "audio/mpeg");
 
