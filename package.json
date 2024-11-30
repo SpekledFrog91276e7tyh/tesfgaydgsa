@@ -16,6 +16,7 @@
   "dependencies": {
     "@types/node": "^18.0.6",
     "express": "^4.21.1",
+    "cors": "^2.8.5"
     "mineflayer": "^4.23.0",
     "youtube-dl-exec": "^3.0.10"
   }
