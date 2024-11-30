@@ -4,9 +4,9 @@ const youtubedl = require("youtube-dl-exec");
 const app = express();
 const port = 3000;
 
-// Enable CORS for all routes
+// Enable CORS for a specific origin
 app.use(cors({
-  origin: '*', // Allow all origins
+  origin: 'https://56d61cd0-79dd-4bcf-83dc-bfcbd6bb2cf2-00-20yynff6e3ec2.sisko.replit.dev', // Replace with your specific origin
   methods: 'GET,POST,OPTIONS,PUT,PATCH,DELETE',
   allowedHeaders: 'X-Requested-With,content-type',
   credentials: true
