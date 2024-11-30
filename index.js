@@ -8,7 +8,7 @@ const port = 3100;
 app.use(
   cors({
     origin:
-      "https://youtube2mp3-tau.vercel.app/", // Your specific origin
+      "https://tesfgaydgsa-si2d.vercel.app", // Your specific origin
     methods: "GET,POST,OPTIONS,PUT,PATCH,DELETE",
     allowedHeaders: "X-Requested-With,content-type",
     credentials: true,
