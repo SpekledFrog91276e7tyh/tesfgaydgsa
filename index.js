@@ -8,7 +8,7 @@ const port = 3100;
 app.use(
   cors({
     origin:
-      "https://youtube2mp3-f399-cwrlxh128-spekledfrog91276e7tyhs-projects.vercel.app", // Your specific origin
+      "https://youtube2mp3-f399.vercel.app/", // Your specific origin
     methods: "GET,POST,OPTIONS,PUT,PATCH,DELETE",
     allowedHeaders: "X-Requested-With,content-type",
     credentials: true,
