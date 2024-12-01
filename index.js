@@ -25,7 +25,7 @@ const downloadAudio = (url, res) => {
         audioFormat: "mp3",
         output: "-",
         format: "bestaudio",
-        cookies: path.join(__dirname, 'cookies.json'), // Reference to cookies.json
+        cookies: path.join(__dirname, 'cookies.txt'), // Reference to cookies.json
       },
       { stdio: ["ignore", "pipe", "pipe"] },
     );
