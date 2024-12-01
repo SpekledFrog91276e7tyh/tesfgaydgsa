@@ -1,14 +1,14 @@
 const express = require("express");
 const cors = require("cors");
 const youtubedl = require("youtube-dl-exec");
+const path = require("path"); // Import path module
 const app = express();
-const port = 3000;
+const port = 3100;
 
 // Enable CORS for a specific origin
 app.use(
   cors({
-    origin:
-      "https://youtube2mp3-f399.vercel.app/", // Your specific origin
+    origin: "https://56d61cd0-79dd-4bcf-83dc-bfcbd6bb2cf2-00-20yynff6e3ec2.sisko.replit.dev", // Your specific origin
     methods: "GET,POST,OPTIONS,PUT,PATCH,DELETE",
     allowedHeaders: "X-Requested-With,content-type",
     credentials: true,
@@ -25,6 +25,7 @@ const downloadAudio = (url, res) => {
         audioFormat: "mp3",
         output: "-",
         format: "bestaudio",
+        cookies: path.join(__dirname, 'cookies.json'), // Reference to cookies.json
       },
       { stdio: ["ignore", "pipe", "pipe"] },
     );
