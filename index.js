@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const youtubedl = require("youtube-dl-exec");
 const app = express();
-const port = 3100;
+const port = 3000;
 
 // Enable CORS for a specific origin
 app.use(
