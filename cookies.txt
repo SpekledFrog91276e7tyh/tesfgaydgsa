@@ -1,0 +1,13 @@
+.youtube.com    TRUE    /    FALSE    2147483647    LOGIN_INFO    AFmmF2swRAIgRJ8DOM2cKssZip7yVfEYotrJUBRrmW7XyVp6UEKl0AcCIF6k2d2gqgYCDJ_ge3XgQ3z5tnDAzkDexhTLda-yek4Z:QUQ3MjNmd2RvQWRFTS1QRm9SUVg1VTdKUWs0UHN3Sm9ZbGhOcHl6dU1XbE9CSkNsUldYTG1kTzcyUmVDSGN3Y3haN0NSQlJCOFdRM09EaktwQ2pOVzFqU1lkSXlGQ1JFa1BTUEo5UjB3bnUxTUc1N2ZtYmxxQ1V3M0Z4THJGUDJkbFUwV18zMzg2SjVNdHN1OGhnRUxCLXYzendQUGczQl9B
+.youtube.com    TRUE    /    FALSE    2147483647    VISITOR_INFO1_LIVE    2SHY2ZwvZBk
+.youtube.com    TRUE    /    FALSE    2147483647    VISITOR_PRIVACY_METADATA    CgJQSBIEGgAgIQ%3D%3D
+.youtube.com    TRUE    /    FALSE    2147483647    PREF    tz=Asia.Manila&f4=4000000&f6=40000000&f7=150
+.youtube.com    TRUE    /    FALSE    2147483647    HSID    Aet6dHfTYMEHtIOJ3
+.youtube.com    TRUE    /    FALSE    2147483647    SSID    AnUSJSeBQ_7bqlfUd
+.youtube.com    TRUE    /    FALSE    2147483647    APISID    VDaSLD1WwUb1gJhe/AOk0DwRfztqo2Wk6c
+.youtube.com    TRUE    /    FALSE    2147483647    SAPISID    kxCr4NkY9tQykXtd/AywHB9P0dDLMaPVPM
+.youtube.com    TRUE    /    FALSE    2147483647    __Secure-1PAPISID    kxCr4NkY9tQykXtd/AywHB9P0dDLMaPVPM
+.youtube.com    TRUE    /    FALSE    2147483647    __Secure-3PAPISID    kxCr4NkY9tQykXtd/AywHB9P0dDLMaPVPM
+.youtube.com    TRUE    /    FALSE    2147483647    SID    g.a000pwholF5iyFm_TTLu-tDAoyp-AhCsNkq2ei90zrrSVo9jsVgcvAU5IJ2g9Nq7UcmdMY8mfgACgYKATESARESFQHGX2Miuo_KFxTxtva8nk93U2WnyBoVAUF8yKqgMW6p5QO7WWcEz2krusE50076
+.youtube.com    TRUE    /    FALSE    2147483647    __Secure-1PSID    g.a000pwholF5iyFm_TTLu-tDAoyp-AhCsNkq2ei90zrrSVo9jsVgcDbtYjNyM3b2KDzihFEFpmAACgYKAboSARESFQHGX2MiGiMOvsX9INcYttYx4AbG9xoVAUF8yKpsXk4BdRpn6XGBAintcCLG0076
+.youtube.com    TRUE    /    FALSE    2147483647    __Secure-3PSID    g.a000pwholF5iy
